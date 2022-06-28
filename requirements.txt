@@ -1,0 +1,15 @@
+certifi==2021.10.8
+charset-normalizer==2.0.10
+colorama==0.4.4
+defusedxml==0.7.1
+DingtalkChatbot==1.5.3
+httpie==3.0.1
+idna==3.3
+multidict==6.0.2
+pip==21.1.1
+Pygments==2.11.2
+PySocks==1.7.1
+requests==2.27.1
+requests-toolbelt==0.9.1
+setuptools==56.0.0
+urllib3==1.26.8
